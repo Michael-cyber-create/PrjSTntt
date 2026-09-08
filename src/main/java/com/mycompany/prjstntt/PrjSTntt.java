@@ -12,8 +12,7 @@ public class PrjSTntt {
 
    public static void main(String[] args) {
 
-        HospitalSystem system = new HospitalSystem();
-
-        system.start();
+     HospitalSystem system = new HospitalSystem();
+system.start();
     }
 }

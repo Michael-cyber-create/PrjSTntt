@@ -2,14 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
-
-import com.mycompany.prjstntt.BedManager;
-import com.mycompany.prjstntt.Inpatient;
-import com.mycompany.prjstntt.PatientCategory;
-import com.mycompany.prjstntt.PatientManager;
-import com.mycompany.prjstntt.ReportManager;
-import com.mycompany.prjstntt.SortPatients;
-import com.mycompany.prjstntt.patient;
+package com.mycompany.prjstntt;
 import java.util.ArrayList;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -19,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * @author emeris
  */
 
-public class HospitalSystem {
+public class HospitalSystemTest {
 
     @Test
     public void testRegisterPatient() {
