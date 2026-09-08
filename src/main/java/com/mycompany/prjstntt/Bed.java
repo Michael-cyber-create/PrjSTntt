@@ -7,7 +7,7 @@ package com.mycompany.prjstntt;
 /**
  *
  * @author emeris
- */
+ *///(Oracle, 2024).
 public class Bed {
 
     private String bedNumber;
@@ -46,3 +46,4 @@ public class Bed {
     }
 }   
 
+//Oracle. (2024). The Java Language Specification.https://docs.oracle.com/javase/specs/ [accessed 30 augest 2026]

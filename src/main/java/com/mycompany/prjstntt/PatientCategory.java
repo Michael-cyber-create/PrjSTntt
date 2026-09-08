@@ -8,9 +8,10 @@ package com.mycompany.prjstntt;
  *
  * @author emeris
  */
-public enum PatientCategory {
+public enum PatientCategory {//(Oracle, 2024).
 
     INPATIENT,
     OUTPATIENT,
     EMERGENCY
 }
+//Oracle. (2024). The Java Language Specification.https://docs.oracle.com/javase/specs/ [Accessed 29 august 2026].

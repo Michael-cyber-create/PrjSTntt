@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * @author emeris
  */
-
+//(JUnit Team, 2025).
 public class HospitalSystemTest {
 
     @Test
@@ -523,3 +523,4 @@ public class HospitalSystemTest {
                 "Occupancy should be 10 percent");
     }
 }  
+//JUnit Team. (2025). JUnit 5 User Guide. https://docs.junit.org/6.1.3/overview.html [accessed 5 september 2026]

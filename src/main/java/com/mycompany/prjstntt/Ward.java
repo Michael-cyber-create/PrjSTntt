@@ -14,7 +14,7 @@ public class Ward {
     private static final int COLUMNS = 5;
     private static final int TOTAL_BEDS = ROWS * COLUMNS;
 
-    private Bed[][] beds;
+    private Bed[][] beds;//(Oracle, 2024)
 
     public Ward() {
 
@@ -248,3 +248,4 @@ public class Ward {
     }
 }   
 
+//Oracle. (2024). The Java Language Specification. https://docs.oracle.com/javase/specs/ [accessed 30 august 2026]

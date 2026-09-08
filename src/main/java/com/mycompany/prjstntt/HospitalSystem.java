@@ -46,7 +46,7 @@ public class HospitalSystem {
         boolean running = true;
 
         while (running) {
-
+//(Oracle, 2024).
             displayMainMenu();
 
             int choice =
@@ -715,3 +715,4 @@ public class HospitalSystem {
         return reportManager;
     }
 }
+//Oracle. (2024). The Java Language Specification. https://docs.oracle.com/javase/specs/ [accessed 4 september 2026]

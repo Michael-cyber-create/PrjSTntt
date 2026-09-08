@@ -22,7 +22,7 @@ public class ReportManager {
         this.patientManager = patientManager;
         this.bedManager = bedManager;
     }
-
+//(Oracle, 2024).
     public void displayAllPatientsReport() {
 
         System.out.println();
@@ -179,3 +179,4 @@ public class ReportManager {
         }
     }
 }
+//Oracle. (2024). ArrayList (Java SE). https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/util/ArrayList.html? [accessed 3 september 2026]

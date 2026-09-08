@@ -12,7 +12,7 @@ import java.util.ArrayList;
  */
 public class SortPatients {
 
-    public static void sortByPatientID(
+    public static void sortByPatientID(//(Oracle, 2024).
             ArrayList<patient> patients) {
 
         if (patients == null) {
@@ -110,3 +110,4 @@ public class SortPatients {
         }
     }
 }
+//Oracle. (2024). The Java Language Specification. https://docs.oracle.com/javase/specs/ [accessed 2 september 2026

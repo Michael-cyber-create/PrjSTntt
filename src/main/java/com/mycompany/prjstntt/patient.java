@@ -43,7 +43,7 @@ public class patient {
         return firstName;
     }
 
-    public void setFirstName(String firstName) {
+    public void setFirstName(String firstName) {//(Oracle, 2024).
         this.firstName = firstName;
     }
 
@@ -110,3 +110,4 @@ public class patient {
     }
 } 
 
+//Oracle. (2024). The Java Language Specification. https://docs.oracle.com/javase/specs/ [Accessed  28 agust 2026]

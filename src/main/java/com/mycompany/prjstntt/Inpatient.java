@@ -8,7 +8,7 @@ package com.mycompany.prjstntt;
  *
  * @author emeris
  */
-public class Inpatient extends patient {
+public class Inpatient extends patient {//(Oracle, 2024)
 
     private String wardNumber;
     private String bedNumber;
@@ -62,3 +62,4 @@ public class Inpatient extends patient {
     }
 }
 
+//Oracle. (2024). The Java Language Specification. https://docs.oracle.com/javase/specs/ [Accessed 28 august 2026].

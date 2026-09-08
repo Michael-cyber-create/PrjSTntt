@@ -9,7 +9,7 @@ package com.mycompany.prjstntt;
  * @author emeris
  */
 public class BedManager {
-
+//(Oracle, 2024).
     private Ward ward;
 
     public BedManager() {
@@ -107,3 +107,4 @@ public class BedManager {
         ward.displayOccupiedBeds();
     }
 }
+//Oracle. (2024). The Java Language Specification. https://docs.oracle.com/javase/specs/ [accessed 1 september 2026]

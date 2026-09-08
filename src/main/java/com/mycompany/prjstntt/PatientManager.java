@@ -12,7 +12,7 @@ import java.util.ArrayList;
  */
 public class PatientManager {
 
-    private ArrayList<patient> patients;
+    private ArrayList<patient> patients;//(Oracle, 2024).
 
     public PatientManager() {
 
@@ -143,3 +143,4 @@ public class PatientManager {
         }
     }
 }
+//Oracle. (2024). ArrayList (Java SE). https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/util/ArrayList.html? [accessed 30 august 2026]

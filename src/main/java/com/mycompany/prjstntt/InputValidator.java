@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author emeris
  */
-public class InputValidator {
+public class InputValidator {//(Oracle, 2024).
 
     private Scanner scanner;
 
@@ -317,3 +317,4 @@ public class InputValidator {
         }
     }
 }
+//Oracle. (2024). The Java Language Specification. https://docs.oracle.com/javase/specs/ [accessed 4 september 2026]
