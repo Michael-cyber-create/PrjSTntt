@@ -8,6 +8,9 @@ package com.mycompany.prjstntt;
  *
  * @author emeris
  */
-public class PatientCategory {
-    
+public enum PatientCategory {
+
+    INPATIENT,
+    OUTPATIENT,
+    EMERGENCY
 }
